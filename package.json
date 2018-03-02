@@ -1,0 +1,22 @@
+{
+  "name": "lisafitzgerald-therapies",
+  "version": "1.0.0",
+  "description": "This is a repository for the source code for a business website for Lisa Fitzgerald Therapies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurafitzgerald/lisafitzgerald-therapies.git"
+  },
+  "author": "Laura Fitzgerald",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/laurafitzgerald/lisafitzgerald-therapies/issues"
+  },
+  "homepage": "https://github.com/laurafitzgerald/lisafitzgerald-therapies#readme",
+  "dependencies": {
+    "semantic-ui": "^2.3.0"
+  }
+}

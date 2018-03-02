@@ -1,11 +1,3 @@
 /*******************************
      User Global Variables
 *******************************/
-
-@primaryColor	: @teal
-@secondaryColor	: @yellow
-
-@yellow			: #DCAE1D
-@teal  			: #CAE4DB
-@blue			: #00303F
-@green			: #7A9D96
